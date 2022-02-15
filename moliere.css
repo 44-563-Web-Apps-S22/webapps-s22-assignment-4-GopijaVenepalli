@@ -22,12 +22,29 @@
     color: cadetblue;
 }
 
-.Tartuffe{
+.TARTUFFE{
     color: blue;
 }
-.Dorine{
+.DORINE{
     color: crimson;
 }
-.Damis{
+.DAMIS{
     color: darkgreen;
+}
+
+table,td,th{
+    padding: 2px;
+    margin: 1px solid black;
+    border: 1px solid black;
+
+}
+td{
+    color: green;
+    margin: 1px solid black;
+    text-align: left;
+}
+th{
+    color: rgb(192, 39, 39);
+    margin: 1px solid black;
+    text-align: center;
 }
