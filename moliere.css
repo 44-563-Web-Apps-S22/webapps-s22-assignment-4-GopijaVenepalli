@@ -71,3 +71,6 @@ tr:nth-child(odd){
     background-color: #555;
     color:white;
     }
+    .icons{
+        float: right; 
+    }
