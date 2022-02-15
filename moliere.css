@@ -50,5 +50,24 @@ tr:nth-child(odd){
     background-color:azure;
 }
 .name:hover{
-    text-shadow: 4px 5px 6px oli;
+    text-shadow: 4px 5px 6px olive;
+    border: solid 1px cornflowerblue  ;
 }
+    ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:rgb(136, 120, 221)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    }
+    ul.navbar-horizontal a:hover {  
+    background-color: #555;
+    color:white;
+    }
