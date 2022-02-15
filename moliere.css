@@ -1,0 +1,29 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: black;
+    background-color: gainsboro;
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: black;
+}
+.direction:hover{
+    background-color: lightblue;
+    color: cadetblue;
+}
+.TARTUFFE{
+    color: blue;
+}
+.DORINE{
+    color: crimson;
+}
+.DAMIS{
+    color: darkturquoise;
+}
