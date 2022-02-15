@@ -35,7 +35,6 @@ table,td,th{
     padding: 2px;
     margin: 1px solid black;
     border: 1px solid black;
-
 }
 td{
     color: green;
@@ -46,6 +45,9 @@ th{
     color: rgb(192, 39, 39);
     margin: 1px solid black;
     text-align: center;
+}
+tr:nth-child(odd){
+    background-color:azure;
 }
 .name:hover{
     text-shadow: 4px 5px 6px oli;
