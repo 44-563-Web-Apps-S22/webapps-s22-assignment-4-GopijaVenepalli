@@ -3,27 +3,31 @@
     font-size: medium;
     color: black;
 }
+
 .direction{
     font-family: 'Courier New', Courier, monospace;
-    font-size: x-large;
+    font-size: small;
     color: black;
     background-color: gainsboro;
 }
+
 .name{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: xx-large;
+    font-size: large;
     color: black;
 }
+
 .direction:hover{
     background-color: lightblue;
     color: cadetblue;
 }
-.TARTUFFE{
+
+.Tartuffe{
     color: blue;
 }
-.DORINE{
+.Dorine{
     color: crimson;
 }
-.DAMIS{
-    color: darkturquoise;
+.Damis{
+    color: darkgreen;
 }
