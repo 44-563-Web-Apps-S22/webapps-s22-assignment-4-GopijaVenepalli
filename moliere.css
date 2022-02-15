@@ -47,3 +47,6 @@ th{
     margin: 1px solid black;
     text-align: center;
 }
+.name:hover{
+    text-shadow: 4px 5px 6px olive;
+}
